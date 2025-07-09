@@ -4,5 +4,11 @@
   <meta charset="UTF-8">
 </head>
 <body>
+  <img src="kioskrr.jpg" style="position: fixed; top: 10; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: -1;">
+  <button>
+    <h1>
+        선택
+    </h1>
+  </button>
 </body>
 </html>
